@@ -17,9 +17,9 @@ Elle est inspirée de la documentation officielle de Vuetify.
 
 ## :rocket: Démarrer Admin Tool
 
-1. Cloner le depot GitHub
+1. Cloner le dépot GitHub
 2. Aller dans `admin-tool`
-3. Installer les packages avec `yarn` ou `npm`
+3. Installer Vuetify avec npm ou yarn (`yarn add vuetify`)
 4. Lancer `npm run dev`
 5. Ouvrir l'URL affiché dans le terminal
 
